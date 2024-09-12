@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
   // instead of using the url again&again in add, list and orders section, directly pass here(like PROPS)
-  const url = "http://localhost:4000"
+  const url = "https://tomato-food-delivery-app-q9i9.onrender.com"
 
   return (
     <div>
